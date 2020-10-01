@@ -8,3 +8,4 @@ With Python 3 installed, simply type `python3 alarm_clock.py` to run the script.
 
 To add videos that may be opened, copy the video URL into _youtube\_alarm\_videos.txt_.
 Make sure that there is only one URL per line.
+Very soon i will update this code we make some unique and add more function
